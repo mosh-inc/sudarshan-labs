@@ -1,0 +1,6 @@
+streamlit
+openai
+googletrans
+pillow
+requests
+pydantic
